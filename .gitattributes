@@ -1,0 +1,2 @@
+# Keep GABC files byte-for-byte as served by GregoBase.
+*.gabc -text

@@ -1,0 +1,20 @@
+name:Test;
+office-part:Varia;
+mode:1;
+transcriber:Jacques Perriere;
+%%
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) *(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()std (Z-)
+
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) ~~~~~*(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()5 (Z-)
+AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) ~~~~*(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()4 (Z-)
+AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) ~~~*(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()3 (Z-)
+AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) ~~*(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()2 (Z-)
+AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) ~*(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()1 (Z-)
+
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) (,) * <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()after bar (Z-)
+
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) <clear>*(,) <i>ij.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()clear (Z-)
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) <clear>*(,) <i>{i}j.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()clear i (Z-)
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) <clear>*(,) <i>i{j}.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()clear j (Z-)
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) <clear>*(,) <i>{ij}.</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()clear ij (Z-)
+(c4) AL(fd~)le(ef'g)lú(hgh){ia}.(ixhiHG'gf.0) <clear>*(,) <i>{ij.}</i>(ixhiHG'ge./ghGF'Ef_gffe.) (::) ()clear ij. (Z-)
